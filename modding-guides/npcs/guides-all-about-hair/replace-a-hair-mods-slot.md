@@ -57,7 +57,7 @@ Happens when a mod has been packed with incompatible Wolvenkit versions.
 
 1. Delete all files - we'll start over
 2. Starting with Wolvenkit 8.15, you can find a scan button in the Asset Browser. If you do not have it, install a [Nightly](https://github.com/WolvenKit/WolvenKit-nightly-releases/releases).
-3. Click the scna button and try adding these files again.
+3. Click the scan button and try adding these files again.
 4. If the file names do not resolve themselves, you will have to mix and match. Read on with Case 2.
 
 <figure><img src="../../../.gitbook/assets/hair_tutorial_borked_files.png" alt=""><figcaption></figcaption></figure>
